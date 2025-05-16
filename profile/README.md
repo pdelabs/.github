@@ -4,7 +4,7 @@
 
 ![Status](https://img.shields.io/badge/status-active-brightgreen?style=flat-square)
 ![Founded](https://img.shields.io/badge/founded-2023-blue?style=flat-square)
-![Location](https://img.shields.io/badge/location-La%20Barra%2C%20Uruguay-orange?style=flat-square)
+![Location](https://img.shields.io/badge/location-Los%20Dedos%2C%20Uruguay-orange?style=flat-square)
 [![Website](https://img.shields.io/badge/visit-website-blue?style=flat-square&logo=google-chrome)](https://pdelabs.com)
 
 ---

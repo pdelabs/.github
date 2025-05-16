@@ -1,35 +1,90 @@
-# Punta del Este Labs (pdelabs)
+# 🚀 Punta del Este Labs (pdelabs)
 
-**Crafting High-Quality Software Solutions**
+**Crafting High-Quality Software Solutions from Uruguay to the World**
 
-Welcome to the official GitHub organization for [Punta del Este Labs](https://pdelabs.com), also known as **pdelabs**. We are a dedicated team of professionals committed to delivering high-quality software solutions tailored to meet the unique needs of our clients.
-
-## 🌍 About Us
-
-Founded in 2023 and headquartered in La Barra, Uruguay, pdelabs is more than just a software development company. Despite our modest size, our ambition and commitment to excellence drive us to deliver exceptional software that not only meets but exceeds our clients' expectations, propelling their success in an increasingly digital world.
-
-## 💼 Services
-
-At pdelabs, we specialize in:
-
-- **Custom Software Development**: Building tailored software solutions that align with your business objectives.
-- **AWS Consulting Services**: Providing expert guidance and implementation for Amazon Web Services to optimize your cloud infrastructure.
-
-Our team is proficient in a range of technologies and is dedicated to crafting solutions that are both innovative and reliable.
-
-## 📍 Location
-
-- **Headquarters**: La Barra, Uruguay
-
-## 📞 Contact Us
-
-We'd love to hear about your project and how we can help bring it to life.
-
-- **Website**: [pdelabs.com](https://pdelabs.com)
-- **Phone**: +34 607 778 304
-
-Feel free to reach out to discuss your project needs, pricing, and timelines.
+![Status](https://img.shields.io/badge/status-active-brightgreen?style=flat-square)
+![Founded](https://img.shields.io/badge/founded-2023-blue?style=flat-square)
+![Location](https://img.shields.io/badge/location-La%20Barra%2C%20Uruguay-orange?style=flat-square)
+[![Website](https://img.shields.io/badge/visit-website-blue?style=flat-square&logo=google-chrome)](https://pdelabs.com)
 
 ---
 
-*Note: This README is based on publicly available information. For the most accurate and detailed information, please refer to our [official website](https://pdelabs.com).*
+## 🌐 About Us
+
+At **Punta del Este Labs**, we believe great software comes from great people. We're a passionate team of developers and consultants delivering elegant, high-impact software solutions and cloud expertise.
+
+Despite being a boutique company, our work speaks globally. Based in the heart of **Los Dedos, Uruguay**, we're building technology that makes a difference.
+
+> _"We don't just code — we collaborate, innovate, and elevate."_ 💡
+
+---
+
+## 🛠️ What We Do
+
+### 💻 Custom Software Development
+Developing bespoke software solutions tailored to the specific needs and requirements of a client.  
+This includes:
+- Web applications  
+- Desktop applications  
+- Specialized business software  
+
+### 📱 Mobile App Development
+Creating mobile applications that offer a seamless user experience.  
+We specialize in:
+- Native app development  
+- Cross-platform solutions  
+- Progressive Web Apps (PWAs)  
+
+### 🔗 Software Integration & API Development
+Ensuring different software systems work together seamlessly.  
+We offer:
+- API development and implementation  
+- Middleware solutions  
+- Integration with structured and unstructured databases  
+
+### 🧮 Data Engineering Solutions
+Refine your raw data into a potent tool for enriching user experiences and generating critical insights.  
+Services include:
+- Data pipeline design and orchestration  
+- ETL processes tailored to your operations  
+- Scalable data infrastructure management  
+
+### 🤖 Comprehensive AI Solutions
+Leverage state-of-the-art AI technologies to transform your data into actionable insights and intelligent solutions.  
+Includes:
+- Machine learning models  
+- Predictive analytics  
+- Reinforcement learning  
+- Data-driven automation  
+
+---
+
+## 👥 Meet Us
+
+- 🌎 Based in Uruguay, collaborating worldwide  
+- 💬 English / Español  
+- 🤝 We love long-term partnerships  
+
+---
+
+## 📫 Get in Touch
+
+Have a project in mind? Let’s talk!
+
+- 🌐 [pdelabs.com](https://pdelabs.com)  
+- 📱 +34 607 778 304  
+- 📨 info@pdelabs.com
+
+---
+
+## 🧠 Tech Stack (examples)
+
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat-square)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square)
+
+---
+
+> ✨ _Built with pride in Punta del Este_ 🇺🇾
